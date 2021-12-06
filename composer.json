@@ -1,0 +1,10 @@
+{
+    "name": "literatura/toggl-daily-csv",
+    "description": "Generates a report on the duration of tasks by day of the week with grouping by tasks.",
+    "autoload": {
+        "psr-4": {"TogglDaily\\": "src/"}
+    },
+    "require": {
+        "php-parallel-lint/PHP-Console-Color": "^0.3.0"
+    }
+}
