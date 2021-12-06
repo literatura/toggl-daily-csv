@@ -1,7 +1,5 @@
 composer.phar
 /vendor/
 /.idea
-results/*
-
+/src/config/config.php
 composer.lock
-data.csv
